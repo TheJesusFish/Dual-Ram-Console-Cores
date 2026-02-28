@@ -1,8 +1,10 @@
-Hello members of the dual ram aristocracy! 
+## Dual Ram Cores for MiSTer Console Cores
 
-Here you will find the freshest versions of all your favorite dual ram cores. Load them up and laugh at the single ram peasents.
+This repo houses the relevant dual ram versions of MiSTer's Console cores. 
 
-Add this to your downloader.ini:
+Enabling this repo in Update All (or adding the below entry to your downloader.ini) will download the dual ram versions of the Console cores into a `Console (Dual SDRAM)` folder.
+
+
 ```ini
 [TheJesusFish/Dual-Ram-Console-Cores]
 db_url = https://raw.githubusercontent.com/TheJesusFish/Dual-Ram-Console-Cores/db/db.json.zip
