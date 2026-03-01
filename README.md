@@ -1,9 +1,8 @@
 ## Dual Ram Cores for MiSTer Console Cores
 
-This repo houses the relevant dual ram versions of MiSTer's Console cores. 
+Cores will be put in the `Console (Dual SDRAM)` folder.
 
-Enabling this repo in Update All (or adding the below entry to your downloader.ini) will download the dual ram versions of the Console cores into a `Console (Dual SDRAM)` folder.
-
+To manually install, add this to your `downloader.ini`.
 
 ```ini
 [TheJesusFish/Dual-Ram-Console-Cores]
