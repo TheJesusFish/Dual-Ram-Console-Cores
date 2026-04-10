@@ -12,4 +12,6 @@ To manually install, add this to your `downloader.ini`.
 db_url = https://raw.githubusercontent.com/TheJesusFish/Dual-Ram-Console-Cores/db/db.json.zip
 ```
 ### Versioning
-As of March 28th 2026, only the PSX core is based on the stable PSX core release. The other cores are based on their unstable (beta) sibling cores. As stable versions of those cores are made available, the dual ram versions will be based on those stable releases.
+As of March 28th 2026, only the PSX and Saturn cores are based on their respective stable core releases. Jaguar is based on a WIP core that Kitrinx is finishing up. Once there is stable version of the Jaguar core, the dual ram version will based on that.
+
+**Note**: The 3DO core in the repo is out of date and no longer relevant. It remains in the repo until the single ram core is officially released, then it will likely be deleted.
