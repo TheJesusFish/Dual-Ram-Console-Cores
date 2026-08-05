@@ -13,5 +13,3 @@ db_url = https://raw.githubusercontent.com/TheJesusFish/Dual-Ram-Console-Cores/d
 ```
 ### Versioning
 As of March 28th 2026, only the PSX and Saturn cores are based on their respective stable core releases. Jaguar is based on a WIP core that Kitrinx is finishing up. Once there is stable version of the Jaguar core, the dual ram version will based on that.
-
-**Note**: The 3DO core in the repo is out of date and no longer relevant. It remains in the repo until the single ram core is officially released, then it will likely be deleted.
